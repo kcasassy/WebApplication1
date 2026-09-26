@@ -1,17 +1,7 @@
-﻿using WebApplication1.MODELS.Data;
-using WebApplication1.MODELS.Domain;
-using WebApplication1.MODELS.Dto;
+﻿using WebApplication1.Models.Dto;
 using WebApplication1.Services;
 using WebApplication1.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using WebApplication1.Models.Dto;
-using WebApplication1.Services;
 
 namespace WebApplication1.Controllers
 {

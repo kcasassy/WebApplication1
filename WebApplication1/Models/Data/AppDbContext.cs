@@ -15,4 +15,3 @@ namespace WebApplication1.Models.Data
         }
     }
 }
-}
